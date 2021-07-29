@@ -1,3 +1,3 @@
 struct CPytorch {
-    var text = "Hello, World!"
+    var text = "Hey, I'm Swift here in the CPytorch package"
 }
